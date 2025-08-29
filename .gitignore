@@ -1,0 +1,13 @@
+results/**
+recent/**
+
+__pycache__/
+.vscode/
+*.py[cod]
+*.egg-info/
+.env
+.DS_Store
+~$licy types and validations.docx
+~$results.xlsx
+.VSCodeCounter/
+results/

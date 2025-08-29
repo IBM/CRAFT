@@ -1,0 +1,167 @@
+Processing file: react-DeepSeek-V2.5-0.0_range_0--1_user-gpt-4o-2024-08-06-llm_0812104116-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.6875
+  k=2: 0.7583333333333334
+  k=3: 0.7875
+  k=4: 0.8
+done
+Processing file: react-Qwen2.5-72B-Instruct-0.0_range_0--1_user-DeepSeek-V2.5-llm_0812155933-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.4375
+  k=2: 0.5333333333333334
+  k=3: 0.6
+  k=4: 0.65
+done
+Processing file: react-Qwen2.5-72B-Instruct-0.0_range_0--1_user-gpt-4o-mini-2024-07-18-llm_0811093134-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.5125
+  k=2: 0.6666666666666667
+  k=3: 0.725
+  k=4: 0.75
+done
+Processing file: react-llama-3-3-70b-instruct-0.0_range_0--1_user-Qwen2.5-72B-Instruct-llm_0811120258-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.3875
+  k=2: 0.4666666666666667
+  k=3: 0.5125
+  k=4: 0.55
+done
+Processing file: react-DeepSeek-V2.5-0.0_range_0--1_user-DeepSeek-V2.5-llm_0812120351-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.45
+  k=2: 0.5083333333333334
+  k=3: 0.5375
+  k=4: 0.55
+done
+Processing file: tool-calling-gpt-4o-mini-2024-07-18-0.0_range_0--1_user-DeepSeek-V2.5-llm_0812171017-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.2666666666666667
+  k=2: 0.4333333333333333
+  k=3: 0.5
+done
+Processing file: react-DeepSeek-V2.5-0.0_range_0--1_user-Qwen2.5-72B-Instruct-llm_0812090707-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.4625
+  k=2: 0.55
+  k=3: 0.6
+  k=4: 0.65
+done
+Processing file: react-llama-3-3-70b-instruct-0.0_range_0--1_user-gpt-4o-2024-08-06-llm_0804122402-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.4125
+  k=2: 0.5583333333333333
+  k=3: 0.6625
+  k=4: 0.75
+done
+Processing file: react-Qwen2.5-72B-Instruct-0.0_range_0--1_user-Qwen2.5-72B-Instruct-llm_0811085650-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.625
+  k=2: 0.6666666666666666
+  k=3: 0.6875
+  k=4: 0.7
+done
+Processing file: tool-calling-gpt-4o-2024-08-06-0.0_range_0--1_user-gpt-4o-2024-08-06-llm_0804162005-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.325
+  k=2: 0.4583333333333333
+  k=3: 0.525
+  k=4: 0.55
+done
+Processing file: react-DeepSeek-V2.5-0.0_range_0--1_user-gpt-4o-mini-2024-07-18-llm_0812094628-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.275
+  k=2: 0.36666666666666664
+  k=3: 0.4125
+  k=4: 0.45
+done
+Processing file: react-llama-3-3-70b-instruct-0.0_range_0--1_user-gpt-4o-mini-2024-07-18-llm_0804121342-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.325
+  k=2: 0.3916666666666667
+  k=3: 0.425
+  k=4: 0.45
+done
+Processing file: react-llama-3-3-70b-instruct-0.0_range_0--1_user-llama-3-3-70b-instruct-llm_0804120318-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.2875
+  k=2: 0.3916666666666667
+  k=3: 0.45
+  k=4: 0.5
+done
+Processing file: tool-calling-gpt-4o-2024-08-06-0.0_range_0--1_user-llama-3-3-70b-instruct-llm_0804144905-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.2625
+  k=2: 0.3166666666666667
+  k=3: 0.3375
+  k=4: 0.35
+done
+Processing file: tool-calling-gpt-4o-mini-2024-07-18-0.0_range_0--1_user-gpt-4o-2024-08-06-llm_0804142831-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.4625
+  k=2: 0.5833333333333334
+  k=3: 0.65
+  k=4: 0.7
+done
+Processing file: react-llama-3-3-70b-instruct-0.0_range_0--1_user-DeepSeek-V2.5-llm_0812152420-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.3875
+  k=2: 0.5416666666666667
+  k=3: 0.625
+  k=4: 0.65
+done
+Processing file: tool-calling-gpt-4o-2024-08-06-0.0_range_0--1_user-Qwen2.5-72B-Instruct-llm_0811133515-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.3875
+  k=2: 0.4916666666666668
+  k=3: 0.5375
+  k=4: 0.55
+done
+Processing file: react-DeepSeek-V2.5-0.0_range_0--1_user-llama-3-3-70b-instruct-llm_0812083620-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.2625
+  k=2: 0.30833333333333335
+  k=3: 0.3375
+  k=4: 0.35
+done
+Processing file: react-Qwen2.5-72B-Instruct-0.0_range_0--1_user-gpt-4o-2024-08-06-llm_0811101627-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.625
+  k=2: 0.75
+  k=3: 0.8
+  k=4: 0.85
+done
+Processing file: tool-calling-gpt-4o-mini-2024-07-18-0.0_range_0--1_user-Qwen2.5-72B-Instruct-llm_0811132526-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.55
+  k=2: 0.6083333333333334
+  k=3: 0.6375
+  k=4: 0.65
+done
+Processing file: tool-calling-gpt-4o-mini-2024-07-18-0.0_range_0--1_user-gpt-4o-mini-2024-07-18-llm_0804141023-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.4
+  k=2: 0.5333333333333334
+  k=3: 0.6
+  k=4: 0.65
+done
+Processing file: tool-calling-gpt-4o-2024-08-06-0.0_range_0--1_user-gpt-4o-mini-2024-07-18-llm_0804160206-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.35
+  k=2: 0.45833333333333337
+  k=3: 0.5125
+  k=4: 0.55
+done
+Processing file: tool-calling-gpt-4o-mini-2024-07-18-0.0_range_0--1_user-llama-3-3-70b-instruct-llm_0804132852-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.6125
+  k=2: 0.7750000000000001
+  k=3: 0.85
+  k=4: 0.9
+done
+Processing file: react-Qwen2.5-72B-Instruct-0.0_range_0--1_user-llama-3-3-70b-instruct-llm_0811081843-user_attack_emotional.json
+📈 Pass^k ASR
+  k=1: 0.4375
+  k=2: 0.5083333333333334
+  k=3: 0.5625
+  k=4: 0.6
+done
