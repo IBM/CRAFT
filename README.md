@@ -1,11 +1,16 @@
-# τ-break: A Benchmark for Policy-Adherence Agents Security Evaluation
+# Effective Red-Teaming of Policy-Adherent Agents  
 
-**Paper**: [https://arxiv.org/abs/2506.09600](https://arxiv.org/abs/2506.09600)
+**Paper**: [https://arxiv.org/abs/2506.09600](https://arxiv.org/abs/2506.09600)  
 
-This code is based on the code published in the paper ["τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains"](https://github.com/sierra-research/tau-bench/tree/main), which suggests a benchmark to evaluate policy-adherence agents.
+This code is based on the paper ["Effective Red-Teaming of Policy-Adherent Agents"](https://github.com/sierra-research/tau-bench/tree/main).  
 
-This codebase extends the τ-bench benchmark and introduces τ-break: a modified benchmark to evaluate policy-adherence agents security.
-It includes a subset of the original τ-bench test cases, modified ground labels for security focused labels, and modified policy in the retail domain to create new policy violations.
+This codebase extends **τ-bench** and introduces two main components:  
+
+- **τ-break**: a benchmark for evaluating the security of policy-adherent agents.  
+  It includes modified ground-truth labels focused on security and new retail-domain policies designed to create policy violations.  
+
+- **CRAFT**: a multi-agent, strategic red-teaming framework.  
+  It simulates adversarial tactics, plans deceptive strategies, and probes edge cases to test the resilience of policy-adherent agents.  
 
 ## Setup
 
