@@ -1,8 +1,8 @@
 # Effective Red-Teaming of Policy-Adherent Agents  
 
-**Paper**: [https://arxiv.org/abs/2506.09600](https://arxiv.org/abs/2506.09600)  
+[![ArXiv](https://img.shields.io/badge/arXiv-2410.16950-b31b1b)]([https://arxiv.org/abs/2410.16950](https://arxiv.org/abs/2506.09600))
 
-This code is based on the paper ["Effective Red-Teaming of Policy-Adherent Agents"](https://github.com/sierra-research/tau-bench/tree/main).  
+This code is based on the paper ["Effective Red-Teaming of Policy-Adherent Agents"](https://arxiv.org/abs/2506.09600).  
 
 This codebase extends **τ-bench** and introduces two main components:  
 
